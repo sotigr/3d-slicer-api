@@ -1,1 +1,1 @@
-prusa-slicer --load config.ini --export-gcode --info  part.stl
+prusa-slicer --load config.ini --export-gcode --info part.stl
