@@ -1,2 +1,2 @@
-## Slic3r Api
-This is a simple slic3r, prusa-slicer and derivatives that slices 3d objects and returns the gcode, print time, weight and other useful information.
+## 3D slicer Api
+This is a simple api that slices 3d files using prusa-slicer, fff and sla modes are supported.
